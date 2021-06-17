@@ -2,9 +2,9 @@
 
 Available languages:
 
-🇬🇧 English
-🇨🇳 Chinese
-🇷🇺 Russian
+- 🇬🇧 English
+- 🇨🇳 Chinese
+- 🇷🇺 Russian
 
 ## Contribution
 
